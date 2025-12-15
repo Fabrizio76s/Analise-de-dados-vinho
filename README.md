@@ -1,5 +1,5 @@
 # Analise de dados vinho
-```markdown
+
 #  Análise Estatística de Qualidade de Vinhos Tintos
 
 Este projeto realiza uma análise exploratória de dados (EDA) e testes de hipótese para investigar os fatores físico-químicos que influenciam a qualidade do vinho tinto.
